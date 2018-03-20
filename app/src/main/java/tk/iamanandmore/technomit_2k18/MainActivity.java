@@ -57,12 +57,22 @@ public class MainActivity extends Activity {
         startActivity(intent);
     }
     public void event10(View view){
-        Uri uri = Uri.parse("https://docs.google.com/forms/d/e/1FAIpQLSelFxhQsUKbz3Btp2gg1BY4hwChT6sHpuNL0QMmgJL7Z9O47g/viewform");
+        Uri uri = Uri.parse("https://docs.google.com/forms/d/e/1FAIpQLScZTnb9hyGlrQNJ5xqK3-K0JayO7CSF8Y2awdafYCpVbz3DwQ/viewform");
         Intent intent = new Intent(Intent.ACTION_VIEW, uri);
         startActivity(intent);
     }
     public void event11(View view){
         Uri uri = Uri.parse("https://docs.google.com/forms/d/e/1FAIpQLSdYUyF37B2kGAe1FqQ-Usrj5FMjrFam5nz7aqsb23M3ukupGg/viewform");
+        Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+        startActivity(intent);
+    }
+    public void event12(View view){
+        Uri uri = Uri.parse("https://docs.google.com/forms/d/e/1FAIpQLSf8J2xh9iM4U6lUk4zL-S5F6s9Xv7fk8BcUWf1nRYZ_aVq1xA/viewform");
+        Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+        startActivity(intent);
+    }
+    public void event13(View view){
+        Uri uri = Uri.parse("https://docs.google.com/forms/d/e/1FAIpQLSei6jy-oMaWbk32WQ8BYZ0DQz9PbAMPc3JgwAVLAjeGVtBqjw/viewform");
         Intent intent = new Intent(Intent.ACTION_VIEW, uri);
         startActivity(intent);
     }
