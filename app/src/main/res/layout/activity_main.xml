@@ -36,67 +36,132 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:onClick="event1"
-                android:text="C Programming" />
+                android:text="C Programming"
+                android:background="@drawable/button"
+                android:textColor="#FFFFFF"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="5dp" />
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="LAN Gaming"
-                android:onClick="event12"/>
+                android:onClick="event12"
+                android:background="@drawable/button"
+                android:textColor="#FFFFFF"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="5dp" />
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="Mobile Gaming"
-                android:onClick="event2"/>
+                android:onClick="event2"
+                android:background="@drawable/button"
+                android:textColor="#FFFFFF"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="5dp" />
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="PS Gaming"
-                android:onClick="event13"/>
+                android:onClick="event13"
+                android:background="@drawable/button"
+                android:textColor="#FFFFFF"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="5dp" />
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="Mock Placement"
-                android:onClick="event3"/>
+                android:onClick="event3"
+                android:background="@drawable/button"
+                android:textColor="#FFFFFF"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="5dp" />
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="IPL Auction"
-                android:onClick="event4"/>
+                android:onClick="event4"
+                android:background="@drawable/button"
+                android:textColor="#FFFFFF"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="5dp" />
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="Poster Presentation"
-                android:onClick="event5"/>
+                android:onClick="event5"
+                android:background="@drawable/button"
+                android:textColor="#FFFFFF"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="5dp" />
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="Hunky Brains"
-                android:onClick="event6"/>
+                android:onClick="event6"
+                android:background="@drawable/button"
+                android:textColor="#FFFFFF"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="5dp" />
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="Dual Extempore"
-                android:onClick="event7"/>
+                android:onClick="event7"
+                android:background="@drawable/button"
+                android:textColor="#FFFFFF"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="5dp" />
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="Treasure Hunt"
-                android:onClick="event8"/>
+                android:onClick="event8"
+                android:background="@drawable/button"
+                android:textColor="#FFFFFF"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="5dp" />
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="Web Development"
-                android:onClick="event9"/>
+                android:onClick="event9"
+                android:background="@drawable/button"
+                android:textColor="#FFFFFF"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="5dp" />
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="Project Competition"
-                android:onClick="event10"/>
+                android:onClick="event10"
+                android:background="@drawable/button"
+                android:textColor="#FFFFFF"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="5dp" />
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="Idea Presentation"
-                android:onClick="event11"/>
+                android:onClick="event11"
+                android:background="@drawable/button"
+                android:textColor="#FFFFFF"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="5dp" />
         </LinearLayout>
     </ScrollView>
 </android.support.constraint.ConstraintLayout>
