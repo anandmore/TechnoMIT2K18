@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="tk.iamanandmore.technomit_2k18.MainActivity">
+    tools:context="tk.iamanandmore.technomit_2k18.MainActivity"
+    android:background="@color/blue">
     <ScrollView
         android:id="@+id/scrollView3"
         android:layout_width="0dp"
@@ -89,7 +90,7 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="Project Exhibition"
+                android:text="Project Competition"
                 android:onClick="event10"/>
             <Button
                 android:layout_width="match_parent"
