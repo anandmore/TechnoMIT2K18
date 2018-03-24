@@ -12,7 +12,7 @@ public class SplashScreen extends Activity {
         setContentView(R.layout.activity_splash_screen);
         new Handler().postDelayed(new Runnable() {
             public void run() {
-                Intent i = new Intent(SplashScreen.this, MainActivity.class);
+                Intent i = new Intent(SplashScreen.this, LoginScreen.class);
                 startActivity(i);
                 finish();
             }
