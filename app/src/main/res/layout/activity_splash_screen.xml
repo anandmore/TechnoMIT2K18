@@ -31,6 +31,6 @@
             android:textSize="12dp"
             android:textColor="#FFFFFF"
             android:layout_alignParentBottom="true"
-            android:text="\u00A9 TechnoMIT-2K18"/>
+            android:text="\u00A9 anandmore"/>
     </RelativeLayout>
 </android.support.constraint.ConstraintLayout>

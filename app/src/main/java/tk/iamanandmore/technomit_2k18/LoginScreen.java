@@ -32,7 +32,7 @@ public class LoginScreen extends Activity {
         String email = inputEmail.getText().toString().trim();
         String password = inputPassword.getText().toString().trim();
         String anand = "techno@mit.2k18";
-        String more = "12345";
+        String more = "1234567890";
         pDialog=new ProgressDialog(this);
         pDialog.setCancelable(false);
         sharedpreferences = getSharedPreferences(MyPREFERENCES, MODE_MULTI_PROCESS);
