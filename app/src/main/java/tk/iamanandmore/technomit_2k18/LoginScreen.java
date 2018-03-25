@@ -35,7 +35,7 @@ public class LoginScreen extends Activity {
         String more = "12345";
         pDialog=new ProgressDialog(this);
         pDialog.setCancelable(false);
-        sharedpreferences = getSharedPreferences(MyPREFERENCES, MODE_PRIVATE);
+        sharedpreferences = getSharedPreferences(MyPREFERENCES, MODE_MULTI_PROCESS);
         SharedPreferences.Editor editor = sharedpreferences.edit();
         if (!email.isEmpty() && !password.isEmpty()) {
             if(email.equals(anand)) {
