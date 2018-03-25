@@ -29,7 +29,7 @@
             android:gravity="center_horizontal"
             android:layout_marginBottom="10dp"
             android:textSize="12dp"
-            android:textColor="#454545"
+            android:textColor="#FFFFFF"
             android:layout_alignParentBottom="true"
             android:text="\u00A9 TechnoMIT-2K18"/>
     </RelativeLayout>
