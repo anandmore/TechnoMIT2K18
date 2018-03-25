@@ -1,1 +1,1 @@
-#Official android app for TechnoMIT-2K18.
+Official android app for TechnoMIT-2K18.
